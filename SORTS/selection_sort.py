@@ -28,4 +28,4 @@ def selection_sort(a=[]):
 
 if __name__ == "__main__":
     array = [5,4,3,2,1]
-    print(selection_sort(array))
+    print(selection_sort(array), array)
